@@ -1,11 +1,10 @@
 # DQN_WechatJump_iOS
-Taking distance as state and press_time as action to make `Reinforcement Learning`
+Distance as state and Press_time as action to make `Reinforcement Learning`
 
 ##  Pre_train
-![image](https://github.com/Sjymmd/DQN_Wechat_Jump_for_iOS/master/data/Train_Demo.jpeg)
-
+![image](https://github.com/Sjymmd/DQN_WechatJump_iOS/blob/master/data/Train_Demo.jpeg)
 ## RUN
-Use the Pre_Train Model to play game
+Use the Pre_Train Model to play the game
 
 
 ### Configure `Pre_Train Model`
